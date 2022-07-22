@@ -118,7 +118,7 @@ transition:all 0.10s ease;-webkit-transition:all 0.10s ease;-moz-transition:all 
 	background:#008000;
 }
 .left_content h4, {background: green;
-color: white; padding: 5px; font-size: 15px;
+color: #fff; padding: 5px; font-size: 15px;
 }
 
 .content_wrapper input{width:100px;height:15px;border-radius:5px;margin-left:5px;}
